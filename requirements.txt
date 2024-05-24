@@ -1,1 +1,4 @@
-numpy
+datasets
+transformers
+tensorflow
+tf-keras
